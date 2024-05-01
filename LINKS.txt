@@ -1,0 +1,8 @@
+# resource links
+
+google sheets link (if applicable):
+tableau public link:https://public.tableau.com/app/profile/bhawrghava.illa/viz/Globox_AB/CONVERSION_RATE?publish=yes,
+https://public.tableau.com/app/profile/bhawrghava.illa/viz/Globox_AB_revenue/REVENUE_GENERATED?publish=yes,
+https://public.tableau.com/app/profile/bhawrghava.illa/viz/AB_novelty/Sheet1?publish=yes,
+https://public.tableau.com/app/profile/bhawrghava.illa/viz/AB_novelty_conversion/Sheet2?publish=yes
+presentation video link:https://www.loom.com/share/8869198f83414330a1f8792a9479c9fa?sid=6cffd064-b856-401e-add8-caf199f7cc23
